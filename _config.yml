@@ -42,7 +42,7 @@ urlimg: 'https://github.com/wave5/wave5.github.io-feeling-responsive.git/_posts/
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "header_homepage_13.jpg"
 
 # Gems
 gems:
@@ -105,7 +105,7 @@ compress_html:
 defaults:
   -
     scope:
-      path: '' 				# an empty string here means all files in the project
+      path: '' # an empty string here means all files in the project
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages
