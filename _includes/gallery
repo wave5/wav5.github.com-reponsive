@@ -16,16 +16,16 @@
 *   gallery:
 *       - image_url: gallery-image.jpg
 *          caption: Starting Page with huge One Logo
-*
+*W
 *   6. Add the include whereever you want in your content like this:
 *
 *   {% include gallery %}
 *
-*   Check out the example page › http://phlow.github.io/feeling-responsive/design/gallery/
+*   Check out the example page › https://wave5.github.io/wave5.github.io-feeling-responsive/design/gallery/
 *
 {% endcomment %}
 <div>
-	
+	<ul class="clearing-thumbs small-block-grid-4" data-clearing>
 		{% for item in page.gallery %}
 		{% capture url %}{{ item.image_url }}{% endcapture %}
 		{% assign split_url = url | split: '.' %}
