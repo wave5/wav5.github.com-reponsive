@@ -42,7 +42,7 @@ urlimg: 'https://github.com/wave5/wave5.github.io-feeling-responsive.git/images'
 
 
 # Logo size is 600x80 pixels
-logo: "header-bus.jpg"
+logo: "logo.png"
 
 # Gems
 gems:
