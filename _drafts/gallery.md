@@ -14,7 +14,7 @@ tags:
 # Gallery
 #
 gallery:
-    - image_url: images/gallery-image.jpg
+    - image_url: gallery-image.jpg
       caption: Great images by Unsplash.com
     - image_url: gallery-image.jpg
       caption: Great images by Unsplash.com
