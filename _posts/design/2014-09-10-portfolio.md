@@ -29,23 +29,50 @@ Github bash 는 git에 대한 명령을 실행할 때 쓰는 CMD창과  흡사�
  나의 GitHub Server 저장소 디렉토리에 다운로드한 파일을 복사(압축해제)하여 저장한다.
  Git bash 로 저장한 목록들을 확인해본다 $ git status
  아래 빨강음영 텍스트가 복사 상태이며 해당 파일을 쓰기로 바꿔보자.
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git5.png">
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git5.png"><br>
  Git add --all (쓰기)
- Git commit -m "Jekyll initiaql commit" (""안에 들어가있는 내용은 테마마다 다르므로 예제이다)
+ Git commit -m "Jekyll initiaql commit" (""안에 들어가있는 내용은 테마마다 다르므로 예제이다)<br>
 <img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git6.png">
- Add 를 활성화하였다면 git server 에 밀어넣어보자.
+ <br>Add 를 활성화하였다면 git server 에 밀어넣어보자.
  ! 밀어넣기전에 github server 저장소 주소를 이름으로 바꿔보자.
- $ git remote add origin(저장소 주소를 이름화 시키기 예제 : origin) 저장소 주소 붙여넣기.
+ $ git remote add origin(저장소 주소를 이름화 시키기 예제 : origin) 저장소 주소 붙여넣기.<br>
 <img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git7.png">
- 주소를 이름으로 변경되었다면 확인하여 보자.
+ <br>주소를 이름으로 변경되었다면 확인하여 보자.
  $ git remote -v (현재 저장소 주소 목록이 나타난다)
 <img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git8.png">
- 주소가 정상적으로 이름에 할당이 되었다면 저장소 서버로 밀어넣어보자
- $ git push origin master
+ <br>주소가 정상적으로 이름에 할당이 되었다면 저장소 서버로 밀어넣어보자
+ $ git push origin master<br>
 <img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git9.png">
- 휑하게 비었던 나의 github server 저장소가 그럴싸하게 변경되었다.
+ <br>휑하게 비었던 나의 github server 저장소가 그럴싸하게 변경되었다.
 <img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git10.png">  
+ 그리고 내 주소를 복사하여 웹페이지에 띄워보자.
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git11.png">
 
+이제 나도 홈페이지를 만들 수 있게 되었다.!!굿굿!! 서버를 따로 안둬도 되고, 계속 안켜놔도 나만의 홈페이지가 제작이 되었다. github 최고ㅋㅋ~~
+
+
+수정사항이 생겨 서버로 밀어넣고자 한다면 $git add > commit > push 로 간단하게 변경하자.
+$git status
+$git add --all
+$git commit -m ""
+$git push (server link) master
+
+Github server link 동기화 명령어 :
+$git remote add origin (server link)
+
+좀 더 많은 명령어는 아래 블로그를 참조하자
+https://gbsb.tistory.com/10
+
+Github desktop 도 이력조회하기 편하므로 이용해보자.
+나의 github : https://wave5.github.io/wav5.github.io/
+
+내 GitHub 로컬 저장소 : C:\Users\sungjij\Documents\GitHub\wav5.github.io
+
+각 file 별 기능들 요약 사이트 : https://postitforhooney.tistory.com/entry/GitHubJekyll-Jekyll-설치-및-실행-Theme변경-로컬-실행-1
+
+동영상 참고 : https://opentutorials.org/module/2398/16117
+
+Agency theme : http://jekyllthemes.org/themes/agency/
 
 <div class="row t60">
     <div class="medium-6 columns b30">
