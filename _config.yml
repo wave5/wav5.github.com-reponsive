@@ -25,7 +25,7 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://wave5.github.io'
+url: 'https://wave5.github.io/wave5.github.io-feeling-responsive/'
 baseurl: "/"
 
 # This is for the editing function in _/includes/improve_content
