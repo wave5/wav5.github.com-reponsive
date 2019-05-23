@@ -10,6 +10,13 @@ categories:
 ---
 <!--more-->
 
+Github bash 는 git에 대한 명령을 실행할 때 쓰는 CMD창과  흡사하다.
+ 설명 : 아래와같은 과정을 진행하는 것은 내가만든 프로젝트와 로컬저장소를 실시간 연동하기 위함이다.
+ 사전에 해야할 내용은 다음과 같다.
+	= Github 가입 > 프로젝트 생성
+	Repository name 생성 규칙 : username.github.io
+	1) <a href="http://jekyllthemes.org/">jekyll theme에서 마음에드는 테마 고르기.</a>
+
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
