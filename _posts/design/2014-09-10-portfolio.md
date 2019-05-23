@@ -15,7 +15,7 @@ Github bash 는 git에 대한 명령을 실행할 때 쓰는 CMD창과  흡사�
  사전에 해야할 내용은 다음과 같다.
 	= Github 가입 > 프로젝트 생성
 	Repository name 생성 규칙 : username.github.io
-	1) <a href="http://jekyllthemes.org/" target="_sub">jekyll theme에서 마음에드는 테마 고르기.</a>
+	1) <a href="http://jekyllthemes.org/" target="_blank">jekyll theme에서 마음에드는 테마 고르기.</a>
 <img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git1.png">
   2) 마음에 드는 페이지를 선택하면 Download나 홈페이지에서 상세하게 볼 수 있다.
 <img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git2.png">
@@ -61,17 +61,17 @@ Github server link 동기화 명령어 :
 $git remote add origin (server link)
 내 GitHub 로컬 저장소 : C:\Users\사용자이름\Documents\GitHub\깃허브저장소
 좀 더 많은 명령어는 아래 블로그를 참조하자
-<a href="https://gbsb.tistory.com/10" target="_sub">blog참조</a>
+<a href="https://gbsb.tistory.com/10" target=" _blank">blog참조</a>
 
 Github desktop 이력조회 : <a href="https://wave5.github.io/wav5.github.io/" target="_sub">Github Desktop</a>
 
 
 
-각 file 별 기능들 요약 사이트 : <a href="https://postitforhooney.tistory.com/entry/GitHubJekyll-Jekyll-설치-및-실행-Theme변경-로컬-실행-1" target="_sub">요약사이트</a>
+각 file 별 기능들 요약 사이트 : <a href="https://postitforhooney.tistory.com/entry/GitHubJekyll-Jekyll-설치-및-실행-Theme변경-로컬-실행-1" target=" _blank">요약사이트</a>
 
-동영상 참고 : <a href="https://opentutorials.org/module/2398/16117" target="_sub">동영상</a>
+동영상 참고 : <a href="https://opentutorials.org/module/2398/16117" target=" _blank">동영상</a>
 
-Agency theme : <a href="http://jekyllthemes.org/themes/agency/" target="_sub">Agency Theme</a>
+Agency theme : <a href="http://jekyllthemes.org/themes/agency/" target="_blank">Agency Theme</a>
 
 <div class="row t60">
     <div class="medium-6 columns b30">
