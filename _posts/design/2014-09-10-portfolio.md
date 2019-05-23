@@ -17,6 +17,15 @@ Github bash 는 git에 대한 명령을 실행할 때 쓰는 CMD창과  흡사�
 	Repository name 생성 규칙 : username.github.io
 	1) <a href="http://jekyllthemes.org/">jekyll theme에서 마음에드는 테마 고르기.</a>
 <img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git1.png">
+  2) 마음에 드는 페이지를 선택하면 Download나 홈페이지에서 상세하게 볼 수 있다.
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git2.png">
+  3) 원격저장소(github server)의 Repository를 지역저장소로 가져오기(Git Clone 주소복사)
+	 나의 GitHub 에서 Clone or Download button을 클릭하여HTTPS 주소를 복사하여 저장해논다.
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/git3.png">
+"- Git bash 로 로컬저장소에 저장 명령어 실행"
+"- 탐색기로 로컬저장로소 경로로 가보면 다운로드가 되어있다."
+"- 저장 경로는 현재 경로로 다운로드 됨. /zip 다운로드로 제공하거나 그게 아니면 git bash 명령어로 저장."
+
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
