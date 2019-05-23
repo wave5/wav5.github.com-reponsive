@@ -63,11 +63,11 @@ $git remote add origin (server link)
 좀 더 많은 명령어는 아래 블로그를 참조하자
 <a href="https://gbsb.tistory.com/10">blog참조</a>
 
-Github desktop 이력조회 : <a href="https://wave5.github.io/wav5.github.io/">Github Desktop</a>
+Github desktop 이력조회 : <a href="https://wave5.github.io/wav5.github.io/" target="_sub">Github Desktop</a>
 
 
 
-각 file 별 기능들 요약 사이트 : <a href="https://postitforhooney.tistory.com/entry/GitHubJekyll-Jekyll-설치-및-실행-Theme변경-로컬-실행-1">요약사이트</a>
+각 file 별 기능들 요약 사이트 : <a href="https://postitforhooney.tistory.com/entry/GitHubJekyll-Jekyll-설치-및-실행-Theme변경-로컬-실행-1" target="_sub">요약사이트</a>
 
 동영상 참고 : <a href="https://opentutorials.org/module/2398/16117">동영상</a>
 
