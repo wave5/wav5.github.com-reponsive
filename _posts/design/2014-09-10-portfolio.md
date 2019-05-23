@@ -66,7 +66,7 @@ https://gbsb.tistory.com/10
 Github desktop 도 이력조회하기 편하므로 이용해보자.
 나의 github : https://wave5.github.io/wav5.github.io/
 
-내 GitHub 로컬 저장소 : C:\Users\sungjij\Documents\GitHub\wav5.github.io
+내 GitHub 로컬 저장소 : C:\Users\사용자이름\Documents\GitHub\깃허브저장소
 
 각 file 별 기능들 요약 사이트 : https://postitforhooney.tistory.com/entry/GitHubJekyll-Jekyll-설치-및-실행-Theme변경-로컬-실행-1
 
