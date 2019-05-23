@@ -16,7 +16,7 @@ Github bash 는 git에 대한 명령을 실행할 때 쓰는 CMD창과  흡사�
 	= Github 가입 > 프로젝트 생성
 	Repository name 생성 규칙 : username.github.io
 	1) <a href="http://jekyllthemes.org/">jekyll theme에서 마음에드는 테마 고르기.</a>
-
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images/gallery-example-3-thumb.jpg">
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
