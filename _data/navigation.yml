@@ -30,7 +30,7 @@
     url: "/design/gallery/"
   - title: "Portfolio"
     url: "/design/portfolio/"
-    title: "Github"
+  - title: "Github"
     url: "/design/github/"
 
 - title: "Header Styles"
