@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Github"
+title: "Portfolio"
 subheadline: "Portfolio"
 teaser: github
 
