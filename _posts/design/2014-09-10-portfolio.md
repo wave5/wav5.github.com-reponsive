@@ -52,27 +52,27 @@ Github bash 는 git에 대한 명령을 실행할 때 쓰는 CMD창과  흡사�
 
 
 수정사항이 생겨 서버로 밀어넣고자 한다면 $git add > commit > push 로 간단하게 변경하자.
-$git status
-$git add --all
-$git commit -m ""
+<br>$git status<br>
+$git add --all<br>
+$git commit -m ""<br>
 $git push (server link) master
 
 Github server link 동기화 명령어 :
 $git remote add origin (server link)
 
 좀 더 많은 명령어는 아래 블로그를 참조하자
-https://gbsb.tistory.com/10
+<a href="https://gbsb.tistory.com/10">blog참조</a>
 
 Github desktop 도 이력조회하기 편하므로 이용해보자.
-나의 github : https://wave5.github.io/wav5.github.io/
+나의 github : <a href="https://wave5.github.io/wav5.github.io/">Github Desktop</a>
 
 내 GitHub 로컬 저장소 : C:\Users\사용자이름\Documents\GitHub\깃허브저장소
 
-각 file 별 기능들 요약 사이트 : https://postitforhooney.tistory.com/entry/GitHubJekyll-Jekyll-설치-및-실행-Theme변경-로컬-실행-1
+각 file 별 기능들 요약 사이트 : <a href="https://postitforhooney.tistory.com/entry/GitHubJekyll-Jekyll-설치-및-실행-Theme변경-로컬-실행-1">요약사이트</a>
 
-동영상 참고 : https://opentutorials.org/module/2398/16117
+동영상 참고 : <a href="https://opentutorials.org/module/2398/16117">동영상</a>
 
-Agency theme : http://jekyllthemes.org/themes/agency/
+Agency theme :<a href="http://jekyllthemes.org/themes/agency/">Agency Theme</a>
 
 <div class="row t60">
     <div class="medium-6 columns b30">
