@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Show your beautiful work!"
+title: "Github"
 subheadline: "Portfolio"
-teaser: "With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
+teaser: Github  #"With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
 categories:
     - design
 ---
@@ -10,7 +10,7 @@ categories:
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
+        <img src="{{ https://wave5.github.io/wave5.github.io-feeling-responsive/images/gallery-example-3-thumb.jpg }}webdesign_screenshot_nixdorf.jpg" alt="">
         <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
     </div><!-- /.medium-6.columns -->
 
@@ -37,4 +37,3 @@ categories:
         <p>Website: <a href="http://www.psychotherapie-schriefer.de/">Praxis für psychologische Psychotherapie Simone Schriefer</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
-
