@@ -9,7 +9,7 @@ teaser: github
 	= Github 가입 > 프로젝트 생성
 	Repository name 생성 규칙 : username.github.io
 http://jekyllthemes.org/ 에서 마음에드는 테마 고르기."
-
+<a href="http://jekyllthemes.org/">jellky theme</a>
  #"With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
 categories:
     - design
