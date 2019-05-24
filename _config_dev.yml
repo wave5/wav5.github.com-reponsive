@@ -7,7 +7,7 @@
 
 url: 'https://wave5.github.io/wave5.github.io-feeling-responsive/'
 baseurl: ''
-urlimg: 'http://wave5.github.io-feeling-responsive/_posts/design/'
+urlimg: 'http://wave5.github.io-feeling-responsive/_posts/images/'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
