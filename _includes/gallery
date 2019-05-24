@@ -9,7 +9,7 @@
 *   4. Define the big version in frontmatter,
 *
 *   gallery:
-*       - image_url: gallery-image.jpg
+*       - image_url: https://wave5.github.io/wave5.github.io-feeling-responsive/ #gallery-image.jpg
 *
 *   5. Give your image a caption – works without captions, too.
 *
