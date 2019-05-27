@@ -10,12 +10,12 @@ categories:
 ---
 <!--more-->
 
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo1.png"><br>
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo2.png"><br>
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo3.png"><br>
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo4.png"><br>
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo5.png"><br>
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo6.png"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo1.PNG"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo2.PNG"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo3.PNG"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo4.PNG"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo5.PNG"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_groupgpo/gpo6.PNG"><br>
 
 
 
