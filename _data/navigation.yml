@@ -28,7 +28,7 @@
     url: "/design/video/"
   - title: "Gallery"
     url: "/design/gallery/"
-  - title: "ServerGroupGPO"
+  - title: "Server-GroupGPO"
     url: "/design/groupgpo/"
   - title: "Github"
     url: "/design/github/"
