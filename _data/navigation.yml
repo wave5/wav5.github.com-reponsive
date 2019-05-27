@@ -28,8 +28,8 @@
     url: "/design/video/"
   - title: "Gallery"
     url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "winServer_Group_GPO"
+    url: "/design/groupGPO/"
   - title: "Github"
     url: "/design/github/"
 

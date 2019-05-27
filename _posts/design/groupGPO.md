@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Portfolio"
+title: "winServer_Group_GPO"
 subheadline: "Group GPO"
 teaser: Portfolio
 
