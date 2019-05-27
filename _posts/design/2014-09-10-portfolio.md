@@ -10,25 +10,14 @@ categories:
 ---
 <!--more-->
 
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo1.png">
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo2.png">
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo3.png">
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo4.png">
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo5.png">
-<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo6.png">
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo1.png"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo2.png"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo3.png"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo4.png"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo5.png"><br>
+<img src="https://wave5.github.io/wave5.github.io-feeling-responsive/images_group_gpo/gpo6.png"><br>
 
 
-
-
-Github desktop 이력조회 : <a href="https://wave5.github.io/wav5.github.io/" target="_blank">Github Desktop</a>
-
-
-
-각 file 별 기능들 요약 사이트 : <a href="https://postitforhooney.tistory.com/entry/GitHubJekyll-Jekyll-설치-및-실행-Theme변경-로컬-실행-1" target="_blank">요약사이트</a>
-
-동영상 참고 : <a href="https://opentutorials.org/module/2398/16117" target="_blank">동영상</a>
-
-Agency theme : <a href="http://jekyllthemes.org/themes/agency/" target="_blank">Agency Theme</a>
 
 <div class="row t60">
     <div class="medium-6 columns b30">
