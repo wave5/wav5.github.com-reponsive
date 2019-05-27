@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 title: "Portfolio"
-subheadline: "Portfolio"
-teaser: Group GPO
+subheadline: "Group GPO"
+teaser: Portfolio
 
  #"With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
 categories:
