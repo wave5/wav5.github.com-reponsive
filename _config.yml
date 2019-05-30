@@ -38,7 +38,7 @@ improve_content: https://wave5.github.io/wave5.github.io-feeling-responsive/edit
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/wave5/wave5.github.io/feeling-responsive/images/'
+urlimg: 'https://wave5.github.io/wave5.github.io-feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
