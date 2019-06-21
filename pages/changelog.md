@@ -30,7 +30,7 @@ permalink: "/changelog/"
 :   Added the possibility of using [tawk.to][8] via front matter switch `tawkto: true` in front matter. Thank you [Juan Jose Amor Iglesias][9] for the suggestion.
 
 2015-05-04 // Version 1.2.1
-:   Added `meta_title` to `<head>`. Use it in frontmatter for SEO purposes. 
+:   Added `meta_title` to `<head>`. Use it in frontmatter for SEO purposes.
 
 2015-04-28 // Version 1.2
 :   Put some nice Schema.org-Meta-Data into the video-template for better SEO. If you want to know how to use the data, have a look into the front matter of the [video]({{ site.url }}/design/video/).
@@ -88,7 +88,7 @@ permalink: "/changelog/"
 2014-09-16 // Version 0.8
 :   Added [video post format][5] for that cinematic flavor. Added URL- and Credit-feature to images and revamped the homepage a little bit to give blog-content more exposure. Optimized some includes, especially the `_include/list-posts.html`-Include which support some nifty parameters.
 
-2014-09-15 // Version 0.7
+2019-06-21 // Version 0.7
 :   Added an [example of a gallery][4] to show how to use Clearing Lightbox. Meta information is used in posts via `/include/meta_information`. To optimize pages/posts for search engines you have now have an extra front matter-variable called `meta_description`. Also the theme supports facebook open graph information.
 
 2014-09-12 // Version 0.6
