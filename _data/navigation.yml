@@ -28,6 +28,8 @@
     url: "/design/video/"
   - title: "Gallery"
     url: "/design/gallery/"
+  - title: "2019gallery"
+    url: "/design/2019gallery/"
   - title: "Server-GroupGPO"
     url: "/design/groupgpo/"
   - title: "Github"
