@@ -1,10 +1,10 @@
 ---
 layout: page
 subheadline:  "Trip"
-title:  "Trip Gallery is Boracay"
+title:  "Boracay travel photography"
 teaser: "Boracay"
 categories:
-    - Trip
+    - Trip Gallery
 tags:
     - post format
 image:
