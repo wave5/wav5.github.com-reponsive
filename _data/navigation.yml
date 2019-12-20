@@ -30,6 +30,8 @@
     url: "/design/gallery/"
   - title: "2019gallery"
     url: "/design/2019gallery/"
+  - title: "MACAU"
+    url: "/design/2019macau"
   - title: "Server-GroupGPO"
     url: "/design/groupgpo/"
   - title: "Github"
