@@ -26,12 +26,6 @@
     url: "/blog/"
   - title: "Video"
     url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "2019gallery"
-    url: "/design/2019gallery/"
-  - title: "MACAU"
-    url: "/design/2019macau"
   - title: "Server-GroupGPO"
     url: "/design/groupgpo/"
   - title: "Github"
@@ -67,12 +61,27 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
+
+- title: Trip
+  url: "/trip/"
+  side: left
+  dropdown:
+  - title: "Trip gallery"
+    url: "/Trip/archive/"
+  - title: "Gallery"
+    url: "/Trip/gallery/"
+  - title: "2019gallery"
+    url: "/Trip/2019gallery/"
+  - title: "MACAU"
+    url: "/Trip/2019macau"
+
 - title: Blog
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+
 
 - title: "Search"
   url: "/search/"
