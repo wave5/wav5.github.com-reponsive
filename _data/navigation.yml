@@ -62,18 +62,18 @@
     url: "/roadmap/"
 
 
-- title: Trip
-  url: "/trip/"
+- title: Trip gallery"
+  url: "/Trip gallery/"
   side: left
   dropdown:
   - title: "Trip gallery"
     url: "/Trip/archive/"
-  - title: "Gallery"
-    url: "/Trip/gallery/"
-  - title: "2019gallery"
-    url: "/Trip/2019gallery/"
-  - title: "MACAU"
-    url: "/Trip/2019macau"
+  - title: "201903Hawaii"
+    url: "/Trip/201903Hawaii/"
+  - title: "201910Boracay"
+    url: "/Trip/201910Boracay/"
+  - title: "201912MACAU"
+    url: "/Trip/201912macau"
 
 - title: Blog
   url: "/blog/"
