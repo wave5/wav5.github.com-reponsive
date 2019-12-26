@@ -66,8 +66,6 @@
   url: "/Trip/"
   side: left
   dropdown:
-  - title: "Trip gallery"
-    url: "/Trip/archive/"
   - title: "201903Hawaii"
     url: "/Trip/201903Hawaii/"
   - title: "201910Boracay"

@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "Trip"
+subheadline:  "trip"
 title:  "Boracay travel photography"
 teaser: "Boracay"
 categories:
